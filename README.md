@@ -10,21 +10,23 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * Leverages SuperCollider synthesis engine
 2. [processing.py](https://py.processing.org/)
 3. [Blender](https://www.blender.org/)
+4. Writing scripts in python to connect parts of your projects or automate otherwise tedious processes.
 
 # FoxDot Resources
 # processing.py Resources
 # Blender Resources
+# Data Moshing with Python
 
 # Python frameworks worth checking out
 
 # Other tools for creatives (ones that do not use python predominantly) 
 #### Many of these you can connect together with a short python script, maybe sending values over OSC or UDP packets to acheive what you desire.
-* Unity (Scripting with C#)
-* TidalCycles (Haskell based live-coding language predominantly used for patterning audio and producing music)
-* Hydra (browser-based GLSL visuals)
-* The Force (browser-based GLSL visuals)
-* Kodelife (Stand alone GLSL IDE)
-* MaxMSP (Graphical programming language that has scripting capabilites)
-* PureData (Offers lua scripting, I beleive there is also a way to script with python with [py/pyext](https://github.com/grrrr/py))
-* PYO (Python for digital signal processing)
+* [Unity](https://unity.com/) (Scripting with C#)
+* [TidalCycles](https://tidalcycles.org/index.php/Welcome) (Haskell based live-coding language predominantly used for patterning audio and producing music)
+* [Hydra](https://hydra-editor.glitch.me/?) (browser-based GLSL visuals)
+* [The Force](https://github.com/shawnlawson/The_Force) (browser-based GLSL visuals)
+* [KodeLife](https://hexler.net/products/kodelife) (Stand alone GLSL IDE, Images for Raspberry pi and mobile which is really awesome)
+* [MaxMSP](https://cycling74.com/products/max/) (Graphical programming language that has scripting capabilites)
+* [PureData](https://puredata.info/) (Offers lua scripting, I beleive there is also a way to script with python with [py/pyext](https://github.com/grrrr/py))
+* [PYO](http://ajaxsoundstudio.com/software/pyo/) (Python for digital signal processing)
 
