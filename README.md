@@ -13,8 +13,17 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 4. Writing scripts in python to connect parts of your projects or automate otherwise tedious processes.
 
 # FoxDot Resources
+
 # processing.py Resources
 * Currently an issue with .py mode working (atleast on mac), you must download the following version of the python mode and unzip into your modes folder.  Make sure you also unzip the src folder. [Correct Version](https://py.processing.org/3/PythonMode_3049.zip)
+
+![](process_py_working_gif.gif)
+
+* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) Daniel Shiffman has incredible processing tutorials, while many aren't in python they should still be very useful to you!
+
+* [The Book of Shaders](https://thebookofshaders.com/) Amazing resource for creating GLSL shaders, one way to do this is by wrapping your GLSL code in processing code, to run as a sketch.
+
+
 # Blender Resources
 # Data Moshing with Python
 
