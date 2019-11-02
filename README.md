@@ -2,7 +2,7 @@
 #### This is an overview of topics covered at the Pittsburgh Python users meet-up for November 2019.
 
 
-Learn to leverage Python towards creative and expressive ends. The goal is to demonstrate ways to incorporate Python into the creative process and expose people with a more traditional technical background to what is possible with computational art.  As of recent more and more multimedia artists are turning toward computation means to make their artistic visions a reality, as someone who might have an existing knowlege of python or another programming language, getting started should be straight forward to you.  To those without much exposure to computer science, don't fret, it's easier than you think, and getting started with creative projects like these should make learning about important topics much more enjoyable!
+Learn to leverage Python towards creative and expressive ends. The goal is to demonstrate ways to incorporate Python into the creative process and expose people with a more traditional technical background to what is possible with computational art.  As of recent more and more multimedia artists are turning toward computation means to make their artistic visions a reality.  As someone who might have an existing knowlege of python or another programming language, getting started should be straight forward to you.  To those without much exposure to computer science, don't fret, it's easier than you think, and getting started with creative projects like these should make learning about important topics much more enjoyable!
 
 # Topics covered at the meet-up:
 1. [FoxDot](https://github.com/Qirky/FoxDot) 
