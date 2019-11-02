@@ -7,12 +7,22 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 # Topics covered at the meet-up:
 1. [FoxDot](https://github.com/Qirky/FoxDot) 
 * Live coding language implemented in python for creating patterend audio creations (MUSIC!!)
-* Leverages SuperCollider synthesis engine
+* Leverages SuperCollider synthesis engine.
+
 2. [processing.py](https://py.processing.org/) 
-3. [Blender](https://www.blender.org/) Can automate complex tasks with python, and create things that would be near impossible without scripting.
+* Full Python implementation of processing.
+
+3. [Blender](https://www.blender.org/) 
+* Can automate complex tasks with python, and create things that would be near impossible without scripting.
+
 4. Writing scripts in python to connect parts of your projects or automate otherwise tedious processes.
+* This is easy, and comes in handy in so many situations.
+* I use a short python script, that I'll incude in this repo, to covert midi notes to UDP messages to send to various endpoints.  I use this to sync audio with 3d graphics I've made in processing and Unity. I have also used this to sync audio to LEDs and motors on microcontrollers.
 
 # FoxDot Resources
+
+* [Forum](https://forum.toplap.org/c/communities/foxdot)
+* [Lurk Chat](https://chat.toplap.org/home)
 
 # processing.py Resources
 * Currently an issue with .py mode working (atleast on mac), you must download the following version of the python mode and unzip into your modes folder.  Make sure you also unzip the src folder. [Correct Version](https://py.processing.org/3/PythonMode_3049.zip)
