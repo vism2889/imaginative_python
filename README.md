@@ -9,7 +9,7 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * Live coding language implemented in python for creating patterend audio creations (MUSIC!!)
 * Leverages SuperCollider synthesis engine
 2. [processing.py](https://py.processing.org/) 
-3. [Blender](https://www.blender.org/)
+3. [Blender](https://www.blender.org/) Can automate complex tasks with python, and create things that would be near impossible without scripting.
 4. Writing scripts in python to connect parts of your projects or automate otherwise tedious processes.
 
 # FoxDot Resources
@@ -25,7 +25,15 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 
 
 # Blender Resources
+* [Python Tutorials by Ian Scott](https://www.youtube.com/playlist?list=PL82B729438AFC834A)
+* [Good Intro Tutorial](https://www.youtube.com/watch?v=rHzf3Dku_cE)
+* [Basic Physics simulation Tutorial](https://www.youtube.com/watch?v=KI0tjZUkb5A)
+
+
 # Data Moshing with Python
+
+* [Datamosh library](https://github.com/sudeeprao/Datamosh)
+* [Background and How to](http://forum.glitchet.com/t/tutorial-make-video-glitch-art-how-to-datamosh-in-plain-english/36)
 
 # Python based projects and frameworks worth checking out
 * [PYO](http://ajaxsoundstudio.com/software/pyo/)
