@@ -17,7 +17,21 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 # Blender Resources
 # Data Moshing with Python
 
-# Python frameworks worth checking out
+# Python based projects and frameworks worth checking out
+* [PYO]()
+* [processing.py]()
+* [touchDesigner]()
+* [FoxDot]()
+* [Blender]()
+* [Magenta](https://magenta.tensorflow.org/)
+* [JythonMusic](https://jythonmusic.me/)
+* [Pillow](https://pypi.org/project/Pillow/)
+* [PyGame](https://www.pygame.org/wiki/CairoPygame)
+* [OpenCV]()
+* [pytorch]()
+
+
+
 
 # Other tools for creatives (ones that do not use python predominantly) 
 #### Many of these you can connect together with a short python script, maybe sending values over OSC or UDP packets to acheive what you desire.
