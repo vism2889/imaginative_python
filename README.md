@@ -18,17 +18,17 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 # Data Moshing with Python
 
 # Python based projects and frameworks worth checking out
-* [PYO]()
-* [processing.py]()
-* [touchDesigner]()
-* [FoxDot]()
-* [Blender]()
+* [PYO](http://ajaxsoundstudio.com/software/pyo/)
+* [processing.py](https://py.processing.org/)
+* [touchDesigner](https://derivative.ca/)
+* [FoxDot](https://github.com/Qirky/FoxDot)
+* [Blender](https://www.blender.org/)
 * [Magenta](https://magenta.tensorflow.org/)
 * [JythonMusic](https://jythonmusic.me/)
 * [Pillow](https://pypi.org/project/Pillow/)
 * [PyGame](https://www.pygame.org/wiki/CairoPygame)
-* [OpenCV]()
-* [pytorch]()
+* [OpenCV](https://opencv.org/)
+* [pytorch](https://pytorch.org/)
 
 
 
@@ -47,18 +47,18 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 # Artists local to Pittsburgh
 * [Char Stiles](http://charstiles.com/)
 * [Kevin Bednar](http://kbdnr.github.io/)
-* [Danielle Rager]()
-* [Gray Crawford]()
+* [Danielle Rager](https://thesetofarsonist.bandcamp.com/)
+* [Gray Crawford](http://www.graycrawford.com/)
 * [Chris Palmer]()
-* [Austin Marcus]()
+* [Austin Marcus](https://pitchaim.github.io/)
 * [Lukas Herman](https://lukashermann.me/#/)
-* [Nancy Drone]()
+* [Nancy Drone](https://shop.conditional.club/album/displacement)
+* [Slowdanger](http://www.slowdangerslowdanger.com/)
 
-# Other boundary pushing artists who you should check out
-* [Kindohm]()
-* [Calumn Gunn]()
-* [Slowdanger]()
-* [Alex McLean]()
+# Other great artists
+* [Kindohm](http://www.kindohm.com/)
+* [Calumn Gunn](http://www.calumgunn.com/)
+* [Alex McLean / Yaxu](https://yaxu.org/)
 
 
 
