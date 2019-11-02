@@ -45,4 +45,20 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) (Python for digital signal processing)
 
 # Artists local to Pittsburgh
+* [Char Stiles](http://charstiles.com/)
+* [Kevin Bednar](http://kbdnr.github.io/)
+* [Danielle Rager]()
+* [Gray Crawford]()
+* [Chris Palmer]()
+* [Austin Marcus]()
+* [Lukas Herman](https://lukashermann.me/#/)
+* [Nancy Drone]()
+
 # Other boundary pushing artists who you should check out
+* [Kindohm]()
+* [Calumn Gunn]()
+* [Slowdanger]()
+* [Alex McLean]()
+
+
+
