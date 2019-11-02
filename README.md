@@ -8,12 +8,13 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 1. [FoxDot](https://github.com/Qirky/FoxDot) 
 * Live coding language implemented in python for creating patterend audio creations (MUSIC!!)
 * Leverages SuperCollider synthesis engine
-2. [processing.py](https://py.processing.org/) Currently an issue with .py mode working (atleast on mac), you must download the following version of the python mode and unzip into your modes folder.  Make sure you also unzip the src folder. [Correct Version](https://py.processing.org/3/PythonMode_3049.zip)
+2. [processing.py](https://py.processing.org/) 
 3. [Blender](https://www.blender.org/)
 4. Writing scripts in python to connect parts of your projects or automate otherwise tedious processes.
 
 # FoxDot Resources
 # processing.py Resources
+* Currently an issue with .py mode working (atleast on mac), you must download the following version of the python mode and unzip into your modes folder.  Make sure you also unzip the src folder. [Correct Version](https://py.processing.org/3/PythonMode_3049.zip)
 # Blender Resources
 # Data Moshing with Python
 
