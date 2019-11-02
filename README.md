@@ -60,7 +60,7 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [Danielle Rager](https://thesetofarsonist.bandcamp.com/)
 * [Gray Crawford](http://www.graycrawford.com/)
 * [Chris Palmer]()
-* [Austin Marcus](https://pitchaim.github.io/)
+* [Austin Marcus](https://aimark.us/)
 * [Lukas Herman](https://lukashermann.me/#/)
 * [Nancy Drone](https://shop.conditional.club/album/displacement)
 * [Slowdanger](http://www.slowdangerslowdanger.com/)
