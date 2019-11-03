@@ -75,6 +75,10 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [PureData](https://puredata.info/) (Offers lua scripting, I beleive there is also a way to script with python with [py/pyext](https://github.com/grrrr/py))
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) (Python for digital signal processing)
 
+# Other Pittsburgh meet-ups worth schecking out
+* [Pittsburgh Live Code Meet-up](https://livecodepgh.org/)
+* [Generative Art and Adversarial Networks](https://www.meetup.com/Generative-Art-and-Adversarial-Networks/)
+
 # Artists local to Pittsburgh
 * [Char Stiles](http://charstiles.com/)
 * [Kevin Bednar](http://kbdnr.github.io/)
@@ -85,11 +89,18 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [Lukas Herman](https://lukashermann.me/#/)
 * [Nancy Drone](https://shop.conditional.club/album/displacement)
 * [Slowdanger](http://www.slowdangerslowdanger.com/)
+* [Morgantics](https://soundcloud.com/morgantics)
 
 # Other great artists
 * [Kindohm](http://www.kindohm.com/)
 * [Calumn Gunn](http://www.calumgunn.com/)
 * [Alex McLean / Yaxu](https://yaxu.org/)
+* []()
+* []()
+* []()
+* []()
+* []()
+
 
 
 
