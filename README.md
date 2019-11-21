@@ -75,7 +75,7 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [PureData](https://puredata.info/) (Offers lua scripting, I beleive there is also a way to script with python with [py/pyext](https://github.com/grrrr/py))
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) (Python for digital signal processing)
 
-# Other Pittsburgh meet-ups worth schecking out
+# Other Pittsburgh meet-ups worth checking out
 * [Pittsburgh Live Code Meet-up](https://livecodepgh.org/)
 * [Generative Art and Adversarial Networks](https://www.meetup.com/Generative-Art-and-Adversarial-Networks/)
 
@@ -95,11 +95,7 @@ Learn to leverage Python towards creative and expressive ends. The goal is to de
 * [Kindohm](http://www.kindohm.com/)
 * [Calumn Gunn](http://www.calumgunn.com/)
 * [Alex McLean / Yaxu](https://yaxu.org/)
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 
 
